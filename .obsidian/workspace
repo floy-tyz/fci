@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "35a36a7c1de1d8b9",
   "lastOpenFiles": [
-    "21-20 Interest/21 Science/21.01 Quotes/01 John Gall.md",
-    "11-20 Dated note/Untitled.md",
     "21-20 Interest/21 Science/21.02 Project organise/01 Johnny Deciminal.md",
+    "21-20 Interest/21 Science/21.01 Quotes/01 John Gall.md",
     "README.md",
+    "11-20 Dated note/Untitled.md",
     "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
     "00 Meta/Tags/science.md",
     "1-10 Education/01 It/01.02 Design pattern/01 Что такое паттерны проектирования.md",
