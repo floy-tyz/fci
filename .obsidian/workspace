@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "271bb3eb8277ee96",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a36a7c1de1d8b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "771315bdb17af2d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "42bfcad6b4ded7fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261ceb83fb7b4e3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5864cc0cde176add",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdf7960792642420",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9c7a6b6abe9d520",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0cff621475c3ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6100a27e0d124984",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34241a8e55243c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c64852fc1633b367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aae1218fb9a1194b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35a36a7c1de1d8b9",
+  "lastOpenFiles": [
+    "21-20 Interest/21 Science/21.01 Quotes/01 John Gall.md",
+    "11-20 Dated note/Untitled.md",
+    "21-20 Interest/21 Science/21.02 Project organise/01 Johnny Deciminal.md",
+    "README.md",
+    "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
+    "00 Meta/Tags/science.md",
+    "1-10 Education/01 It/01.02 Design pattern/01 Что такое паттерны проектирования.md",
+    "00 Meta/Tags/design patterns.md",
+    "1-10 Education/01 It/01.01 Git/02 Системы контроля версий и их виды.md",
+    "1-10 Education/01 It/01.01 Git/01 Основные состояния файлов в git.md"
+  ]
+}
