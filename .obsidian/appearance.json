@@ -1,3 +1,7 @@
 {
-  "baseFontSize": 15
+  "baseFontSize": 14,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "center"
+  ]
 }

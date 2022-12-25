@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "35a36a7c1de1d8b9",
+        "id": "615a8d0fb4b72050",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
-            "mode": "preview",
+            "file": "1-10 Education/01 It/01.01 Git/02 Системы контроля версий и их виды.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
+                "file": "1-10 Education/01 It/01.01 Git/02 Системы контроля версий и их виды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
+                "file": "1-10 Education/01 It/01.01 Git/02 Системы контроля версий и их виды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md"
+                "file": "1-10 Education/01 It/01.01 Git/02 Системы контроля версий и их виды.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35a36a7c1de1d8b9",
+  "active": "615a8d0fb4b72050",
   "lastOpenFiles": [
-    "21-20 Interest/21 Science/21.02 Project organise/01 Johnny Deciminal.md",
-    "21-20 Interest/21 Science/21.01 Quotes/01 John Gall.md",
-    "README.md",
-    "11-20 Dated note/Untitled.md",
-    "1-10 Education/02 Langluages/02.01 English/01 Dictionary.md",
-    "00 Meta/Tags/science.md",
-    "1-10 Education/01 It/01.02 Design pattern/01 Что такое паттерны проектирования.md",
-    "00 Meta/Tags/design patterns.md",
+    "1-10 Education/01 It/01.01 Git/01 Основные состояния файлов в git.md",
+    "1-10 Education/01 It/01.01 Git/progit.pdf",
     "1-10 Education/01 It/01.01 Git/02 Системы контроля версий и их виды.md",
-    "1-10 Education/01 It/01.01 Git/01 Основные состояния файлов в git.md"
+    "1-10 Education/01 It/01.05 Docker/01 Что такое виртуализация.md",
+    "00 Meta/Tags/docker.md",
+    "00 Meta/Files/Pasted image 20221106195851.png",
+    "1-10 Education/01 It/01.03 ООП/02 Ассоциация Наследование Композиция и Агрегация.md",
+    "1-10 Education/01 It/01.04 Принципы программирования/01 Принцип инверсии контроля.md",
+    "1-10 Education/01 It/0001 Парадигмы программирования.md",
+    "1-10 Education/01 It/01.03 ООП/01 Классы объекты и основные принципы.md"
   ]
 }

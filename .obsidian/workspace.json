@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "271bb3eb8277ee96",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fa818cf3e78024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a2e21d581dfee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-10 Образование/01 IT/0001 Парадигмы программирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08b51787e61ce7dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-10 Образование/01 IT/01.07 Структуры данных/07 Указатели.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9da7110e6d14c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-10 Образование/01 IT/01.07 Структуры данных/08 Динамичные массивы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d3bace9a01d3c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-10 Образование/01 IT/01.07 Структуры данных/10 Хеш таблицы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71539de9df43fb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-10 Образование/01 IT/01.07 Структуры данных/01 Большое О нотация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b03025ccbe8f8e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-10 Образование/01 IT/01.06 Codewars/03 Deciminal to hex convert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95b5f8b93be22ee0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "771315bdb17af2d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "42bfcad6b4ded7fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261ceb83fb7b4e3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5864cc0cde176add",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdf7960792642420",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9c7a6b6abe9d520",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0cff621475c3ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6100a27e0d124984",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34241a8e55243c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c64852fc1633b367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aae1218fb9a1194b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "95b5f8b93be22ee0",
+  "lastOpenFiles": [
+    "1-10 Образование/01 IT/01.04 Принципы программирования/01 S.O.L.I.D.md",
+    "1-10 Образование/01 IT/01.04 Принципы программирования/02 Принцип единственной ответсвенности.md",
+    "1-10 Образование/01 IT/01.04 Принципы программирования/05 Принцип инверсии контроля.md",
+    "1-10 Образование/01 IT/01.05 Docker/01 Что такое виртуализация.md",
+    "1-10 Образование/01 IT/01.06 Codewars/03 Deciminal to hex convert.md",
+    "1-10 Образование/01 IT/01.06 Codewars/02 Array product.md",
+    "1-10 Образование/01 IT/01.06 Codewars/01 Range task.md",
+    "00 Meta/Tags/codewars.md",
+    "1-10 Образование/01 IT/01.07 Структуры данных/10 Хеш таблицы.md",
+    "1-10 Образование/01 IT/01.07 Структуры данных/09 Связанный список.md"
+  ]
+}
