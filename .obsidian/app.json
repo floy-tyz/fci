@@ -1,8 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ],
-  "spellcheck": true
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "attachmentFolderPath": "00 Meta/Files"
 }

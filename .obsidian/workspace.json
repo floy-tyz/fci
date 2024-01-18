@@ -4,91 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "46fa818cf3e78024",
+        "id": "0ac0050e115d573d",
         "type": "tabs",
         "children": [
           {
-            "id": "99a2e21d581dfee0",
+            "id": "afff497204e25831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-10 Образование/01 IT/0001 Парадигмы программирования.md",
+                "file": "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1/03 Буферный кеш.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "08b51787e61ce7dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-10 Образование/01 IT/01.07 Структуры данных/07 Указатели.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9da7110e6d14c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-10 Образование/01 IT/01.07 Структуры данных/08 Динамичные массивы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d3bace9a01d3c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-10 Образование/01 IT/01.07 Структуры данных/10 Хеш таблицы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71539de9df43fb4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-10 Образование/01 IT/01.07 Структуры данных/01 Большое О нотация.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b03025ccbe8f8e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-10 Образование/01 IT/01.06 Codewars/03 Deciminal to hex convert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95b5f8b93be22ee0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1598774dc6516612",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5086555480957
   },
   "right": {
     "id": "d9c7a6b6abe9d520",
@@ -154,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1/03 Буферный кеш.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1/03 Буферный кеш.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +132,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1/03 Буферный кеш.md"
+              }
+            }
+          },
+          {
+            "id": "95b34514e5870ee4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -211,17 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b5f8b93be22ee0",
+  "active": "afff497204e25831",
   "lastOpenFiles": [
-    "1-10 Образование/01 IT/01.04 Принципы программирования/01 S.O.L.I.D.md",
-    "1-10 Образование/01 IT/01.04 Принципы программирования/02 Принцип единственной ответсвенности.md",
-    "1-10 Образование/01 IT/01.04 Принципы программирования/05 Принцип инверсии контроля.md",
-    "1-10 Образование/01 IT/01.05 Docker/01 Что такое виртуализация.md",
-    "1-10 Образование/01 IT/01.06 Codewars/03 Deciminal to hex convert.md",
-    "1-10 Образование/01 IT/01.06 Codewars/02 Array product.md",
-    "1-10 Образование/01 IT/01.06 Codewars/01 Range task.md",
-    "00 Meta/Tags/codewars.md",
-    "1-10 Образование/01 IT/01.07 Структуры данных/10 Хеш таблицы.md",
-    "1-10 Образование/01 IT/01.07 Структуры данных/09 Связанный список.md"
+    "01-10 IT/03 Базы данных/Общие данные/08 Целостность данных.md",
+    "01-10 IT/03 Базы данных/Общие данные/09 Шардирование.md",
+    "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1/03 Буферный кеш.md",
+    "01-10 IT/03 Базы данных/Доклады/02 Лекция 1 учимся читать план PostgreSQL для разработчика.md",
+    "01-10 IT/03 Базы данных/Доклады/01 Андрей Сальников — Индексы в PostgreSQL. Как понять, что создавать.md",
+    "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1/02 Изоляция и многоверсионность.md",
+    "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1/01 Общее устройство PostgreSQL.md",
+    "01-10 IT/03 Базы данных/Общие данные/07 ACID.md",
+    "01-10 IT/01 Программирование/ООП/01 Классы объекты и основные принципы.md",
+    "01-10 IT/03 Базы данных/Доклады",
+    "01-10 IT/10 Задачи/Codewars/03 Deciminal to hex convert.md",
+    "01-10 IT/10 Задачи/Codewars/02 Array product.md",
+    "01-10 IT/10 Задачи/Codewars/01 Range task.md",
+    "01-10 IT/06 Linux/systemd & systemctl.md",
+    "01-10 IT/06 Linux/rc.d.md",
+    "00 Meta/Files/Pasted image 20240112162750.png",
+    "00 Meta/Files/Pasted image 20240112145529.png",
+    "00 Meta/Files/Pasted image 20240112145526.png",
+    "00 Meta/Files/Pasted image 20240112145409.png",
+    "00 Meta/Files/Pasted image 20240112145405.png",
+    "00 Meta/Files/Pasted image 20240112145403.png",
+    "00 Meta/Files/Pasted image 20240106200229.png",
+    "01-10 IT/01 Программирование/Принципы программирования/01 S.O.L.I.D.md",
+    "01-10 IT/01 Программирование/Принципы программирования/02 Принцип единственной ответсвенности.md",
+    "01-10 IT/01 Программирование/Принципы программирования/03 Принцип октрытости закрытости.md",
+    "01-10 IT/01 Программирование/Принципы программирования/06 Принцип инверсии зависимостей.md",
+    "01-10 IT/01 Программирование/Принципы программирования/05 Принцип разделения интерфейсов.md",
+    "01-10 IT/01 Программирование/Принципы программирования/04 Принцип подстановки Барбары Лисков.md",
+    "01-10 IT/02 Системы контроля версий/Git/01 Основные состояния файлов в git.md",
+    "01-10 IT/02 Системы контроля версий/Git/04 Ветвление.md",
+    "01-10 IT/02 Системы контроля версий/Git/02 Системы контроля версий и их виды.md",
+    "Черновик/Собеседования/0002 Собеседования.md",
+    "README.md",
+    "00 Meta/Files/Pasted image 20230817214228.png",
+    "00 Meta/Files/Pasted image 20231221222845.png",
+    "01-10 IT/02 Системы контроля версий/Git/03 Как устроен Git изнутри.md",
+    "01-10 IT/03 Базы данных/PostgreSql Pro/DEV-1",
+    "01-10 IT/05 Деплой/Kubernetes",
+    "01-10 IT/06 Linux",
+    "01-10 IT/06 Linux/Супервизоры/rc.d",
+    "01-10 IT/06 Linux/Супервизоры/Supervisor",
+    "01-10 IT/06 Linux/Супервизоры/Crontab",
+    "01-10 IT/06 Linux/Супервизоры",
+    "21-20 Наука/23 На заметку",
+    "01-10 IT/01 Программирование/Общие понятия",
+    "00 Meta/Files/Pasted image 20230204201342.png"
   ]
 }
